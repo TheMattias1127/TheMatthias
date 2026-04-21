@@ -6,7 +6,7 @@
   
   *Computer Science Student | Python & Java Developer | (English/Spanish)*
 
-  <b>"My passion for coding is Non-fiction!!, and it's aimed at the stars. 🌌 (Always `true`✅)"</b>
+  <b>"My passion for coding is Non-fiction!!, and it's aimed at the stars. 🌌"</b>
 
   ---
 
